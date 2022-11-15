@@ -1,3 +1,3 @@
 setTimeout(function() {
-    location.replace('./home/index.html')
+    location.replace('https://rxhap.github.io/home/index.html')
 }, 1000);
